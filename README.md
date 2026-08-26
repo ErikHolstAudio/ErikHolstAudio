@@ -19,6 +19,8 @@ If you want to see more of my work, please check out my Portfolio at https://Eri
 <!--
 **ErikHolstAudio/ErikHolstAudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**Add to this if this needs update: 1 **
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
